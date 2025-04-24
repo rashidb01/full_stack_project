@@ -121,6 +121,9 @@
 						Review:
 						<textarea name="review" rows="4" class="form-control"></textarea>
 						<br>
+						<form action="/submit-review" method="post" >
+							<button type="submit">Оставить отзыв</button>
+						</form>
 						{% if user.is_authenticated %}
 							{% if orderproduct %}
 								<input type="submit" value="Submit Review" class="btn btn-primary">
