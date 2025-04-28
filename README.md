@@ -1,6 +1,18 @@
+⭐ Star Rating Website
+A simple and responsive star rating web application that allows users to rate products, services, or content on a scale from 1 to 5 stars.
 
-GreatKart is an eCommerce application built with Python Django Framework. Some of the features of this project includes custom user model, categories and products, Carts, Incrementing, Decrementing and removing car items, Unlimited Product image gallery, Orders, Payments, after-order functionalities such as reduce the quantify of sold products, send the order received email, clearing the cart, Order completion page as well as generating an invoice for the order. Also we have a Review and Rating system with the interactive rating stars that even allows you to rate a half-star rating. My account functionalities for the customer who can easily edit his profile, profile pictures, change his account password, and also manage his orders and much more. Finally hosted this application on AWS Elastic Beanstalk [Check Demo](http://djangogreatkart.com/)
+Features
+Select and submit a rating from 1 to 5 stars
 
+Update or change your rating
+
+Visual feedback when hovering over and selecting stars
+
+(Optional) Display of the average rating (if implemented)
+
+Lightweight and easy to customize
+
+Tips to Use
 
 1. Clone the repository `git clone https://github.com/dev-rathankumar/greatkart-pre-deploy.git`
 2. Navigrate to the working directory `cd greatkart-pre-deploy`
